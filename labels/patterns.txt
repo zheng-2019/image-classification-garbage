@@ -1,0 +1,83 @@
+Abstract
+Graffiti
+Cartoon
+Tie-dye
+Oil painting
+Animal prints
+Geometric pattern
+European  pattern
+National pattern
+Scenery
+Rainbow
+Insects
+Flamingos
+Fear
+Parrot
+Magpies
+Swallow
+Toucans
+Owl
+Peacock
+Other birds
+Eyes
+Lips
+Hand
+Foot
+Man
+Woman
+Skeleton
+Ear
+Nose
+Head portrait
+Other Characters
+Chinese
+Symbol
+Other words
+Letter
+Numerals
+Heart  Shaped
+Star Shaped
+Wave Point
+Grid
+Stripe
+Camouflage
+Irregular figure
+Geometry
+Snake
+Turtle
+Lizard
+Crocodile
+Panda
+Horse
+Rabbit
+Dog
+Cat
+Tiger
+Lion
+Leopard
+Deer
+Monkey
+Dolphins
+Non-avian
+Watermelon
+Hami melon
+Oranges
+Lemon
+Grapes
+Strawberry
+Banana
+Apple
+Pear
+Cherry
+Pineapple
+Tropical plants
+Leaves
+Floral
+Floral mix
+Cactus
+Roses
+Peony
+Lily
+Daisy
+Other plants
+None

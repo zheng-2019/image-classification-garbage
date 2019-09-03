@@ -1,0 +1,12 @@
+Gray
+White
+BlueColors
+Purple
+Red
+Orange
+Yellow
+Green
+Cyan
+Brown
+Pink
+Colors
